@@ -8,4 +8,4 @@ just copy all of 50w-corner.html into the top of your index.html.
 
 It looks like this:
 
-(gif)
+![](corner.gif)
